@@ -1,0 +1,1 @@
+Shamelessly stolen/utilizing the go tutorial, trying to see how quickly a go app can support a generic api access, read from a db, implement different service modules, and provide cross-microservice capabilities. Starting with simple dumb apps like language learning flash cards, customized RSS/News briefs, and Daily Diary/Learning.
